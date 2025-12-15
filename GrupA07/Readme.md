@@ -1,1 +1,10 @@
+**Estos son los miembros del grupo:**
+
+-[CV-RUI](RUI.md)
+
+-[CV-DANIEL G](DANIELG.md)
+
+-[CV-DANIEL MG](DANIELMG.md)
+
+-[CV-JOAN](JOAN.md)
 
